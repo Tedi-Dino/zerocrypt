@@ -1,0 +1,5 @@
+{
+  "name": "ZeroCrypt - Invisible Text Encoder",
+  "description": "A steganography tool to hide secret messages within normal text using Zero-Width characters. Supports Plain Unicode, AES, and RSA encryption.",
+  "requestFramePermissions": []
+}
